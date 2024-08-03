@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("./img/rose.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-sm-12{
+ 
+    color: antiquewhite;
+    padding-left: 500px;
+    padding-right: 100px;
+    padding-top: 40px;
+    
+    font-family: "Arimo", sans-serif;
+    font-weight: 500;
+
+}
+
+.h2 .h3{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+}
